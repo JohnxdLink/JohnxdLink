@@ -2,7 +2,7 @@
 
 ###
 
-<p style="font-size: 36rem; font-weight: bold;" align="left">Hi 👋, I'm JohnxdLink</h2>
+<p style="font-size: 36px; font-weight: bold;" align="left">Hi 👋, I'm JohnxdLink</h2>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<img align="left" height="175" src="https://media.tenor.com/232-vaxdmKIAAAAd/solo-level.gif"  />
+<img align="left" height="150" src="https://media.tenor.com/232-vaxdmKIAAAAd/solo-level.gif"  />
 
 ###
 
