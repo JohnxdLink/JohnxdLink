@@ -2,7 +2,7 @@
 
 ###
 
-<p style="font-size: 36px; font-weight: bold;" align="left">Hi 👋, I'm JohnxdLink</h2>
+<p align="left" style="font-size: 36px; font-weight: bold;">Hi 👋, I'm JohnxdLink</h2>
 
 ###
 
