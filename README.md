@@ -22,17 +22,9 @@
 
 <p align="left">I am a dedicated and enthusiastic developer with a strong passion for learning and growing in the field of programming. Proficient in a diverse range of programming languages and technologies, including C, C++, C#, Java, Python, ASP.NET, HTML, CSS, JavaScript, PHP, React Native. I take pride in crafting efficient solutions and continuously expanding my expertise.</p>
 
-###
-
-<br clear="both">
-
-<p align="left">Frameworks</p>
-
-###
-
-<br clear="both">
 
 <div align="left">
+  <p align="left">Frameworks</p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
@@ -42,13 +34,8 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
 </div>
 
-###
-
-<p align="left">Programming Languages</p>
-
-###
-
 <div align="left">
+  <p align="left">Programming Languages</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
